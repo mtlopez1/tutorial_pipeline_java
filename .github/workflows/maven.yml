@@ -13,8 +13,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  tests:
-     
+  tests:     
      name: Tests
      runs-on: ubuntu-latest
 
